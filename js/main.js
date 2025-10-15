@@ -25,7 +25,7 @@ $(function(){
     //프로젝트 섬네일 넣기
     $('.sec_03 .content .project_sum').each(function(i){
         const imgNum = (i + 1).toString().padStart(2, '0');
-        $(this).css('background', `url(../img/img_project${imgNum}.png) no-repeat center/cover`)
+        $(this).css('background', `url(img/img_project${imgNum}.png) no-repeat center/cover`)
     })
 
     //프로젝트 비디오 재생하기
