@@ -80,6 +80,5 @@
 ## ✉️Contact
 
  - Email : cj4728@naver.com
- - Velog : https://velog.io/@juns00/posts
 
 ---
